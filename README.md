@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @wmhst7
 - 🌱 I’m currently learning how to train and deploy LLM more efficiently.
 
-<!---
-wmhst7/wmhst7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![wmhst7's GitHub stats](https://github-readme-stats.vercel.app/api?username=wmhst7&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
