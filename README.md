@@ -1,1 +1,1 @@
-[![wmhst7's GitHub stats](https://github-readme-stats.vercel.app/api?username=wmhst7&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+Mingheng Wu is a Research Scientist at ByteDance Seed, working on LLM systems and large-scale pretraining. His recent work focuses on PyTorch compiler infrastructure for LLM/VLM pretraining, distributed training optimization, and LLM simulators. He received his degree from the University of Washington and Tsinghua University.
