@@ -1,1 +1,1 @@
-Mingheng Wu is a Research Scientist at ByteDance Seed, working on LLM systems and large-scale pretraining. His recent work focuses on PyTorch compiler infrastructure for LLM/VLM pretraining, distributed training optimization, and LLM simulators. He received his degree from the University of Washington and Tsinghua University.
+
